@@ -1,0 +1,240 @@
+(footprint "WS2812B-1313-V6"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SMD1313-4P RGB LEDs(Built-in IC) ROHS")
+	(tags "C52941388 LED-SMD_4P-L1.3-W1.3-P0.80_WS2812E-1313 WS2812B-1313-V6 Worldsemi")
+	(property "Reference" "REF**"
+		(at 0 -1.89027 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "26180f78-cfb8-4cf7-9da2-8389e703e5e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 1.88773 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb685b89-43c9-48c2-b11b-05f3345c8397")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240229/B8051D75F82007E6B8E5AD9424D7210B.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6bea34cb-0949-46ee-beb6-7fedf5e61b19")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SMD1313-4P RGB LEDs(Built-in IC) ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "891fc8c2-049c-4324-a7ca-75ca6e9f3a80")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C52941388"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f959652-22f4-41f1-8af8-725a88da690c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.89027 -0.38227)
+		(end -0.89027 -0.5)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "41b43887-c3d2-49ca-9dd3-3e4a263ed50a")
+	)
+	(fp_line
+		(start -0.89027 0.88773)
+		(end -0.89027 -0.38227)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7df3fb6a-9dbc-4179-9234-704a72e40bff")
+	)
+	(fp_line
+		(start -0.5 -0.89027)
+		(end 0.90297 -0.89027)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "32dec0c8-1fed-4950-9904-1f0742f6a112")
+	)
+	(fp_line
+		(start 0.90297 -0.89027)
+		(end 0.90297 0.88773)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b0aed25b-c845-4cf1-a739-a251cf61afae")
+	)
+	(fp_line
+		(start 0.90297 0.88773)
+		(end -0.89027 0.88773)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "57de1b25-e127-43e3-af83-9ce2a74572b9")
+	)
+	(fp_poly
+		(pts
+			(xy -0.130048 -0.070053) (xy 0.250952 -0.070053) (xy 0.123952 0.056947) (xy -0.003048 0.183947) (xy -0.257048 -0.070053)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "79c1678c-6b55-4048-b621-95d95519d196")
+	)
+	(fp_poly
+		(pts
+			(xy -0.999998 -0.749986) (xy -0.599999 -0.749986) (xy -0.599999 -0.649986) (xy -0.999998 -0.649986)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "25bafa44-2bdc-429c-8e74-cafad3504fc0")
+	)
+	(fp_poly
+		(pts
+			(xy -0.836981 -0.506247) (xy -0.836981 -0.906247) (xy -0.736981 -0.906247) (xy -0.736981 -0.506247)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "82b84524-c804-44c1-bda8-b6d88ab08834")
+	)
+	(fp_poly
+		(pts
+			(xy -0.459994 0.099009) (xy -0.259994 0.099009) (xy -0.259994 -0.10099) (xy -0.459994 -0.10099)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "2ca71b4d-da76-4c75-b44c-3843879175e6")
+	)
+	(fp_poly
+		(pts
+			(xy -0.456489 0.42258) (xy -0.256489 0.42258) (xy -0.256489 0.22258) (xy -0.456489 0.22258)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "562ef767-6c79-47cd-840a-c9a382860bed")
+	)
+	(fp_poly
+		(pts
+			(xy -0.456463 -0.202438) (xy -0.256464 -0.202438) (xy -0.256464 -0.402438) (xy -0.456463 -0.402438)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "f3487020-6ece-45a6-b6f7-3508b168464b")
+	)
+	(fp_poly
+		(pts
+			(xy 0.149911 -0.151003) (xy 0.149911 0.248996) (xy 0.64991 0.248996) (xy 0.64991 -0.251003) (xy 0.149911 -0.251003)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "c0d4bdcc-a5e2-4e3c-bba3-30772eae6ccd")
+	)
+	(pad "1" smd rect
+		(at -0.40005 -0.40005)
+		(size 0.499999 0.499999)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d7fb54ef-bae9-4837-ab7f-66126d65c4e9")
+	)
+	(pad "2" smd rect
+		(at -0.40005 0.40005)
+		(size 0.499999 0.499999)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "30ac3aa7-94a4-4f90-8420-5a181bb535eb")
+	)
+	(pad "3" smd rect
+		(at 0.40005 0.40005)
+		(size 0.499999 0.499999)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e1400dbc-a270-42bc-9ab4-2a45256c6e61")
+	)
+	(pad "4" smd rect
+		(at 0.40005 -0.40005)
+		(size 0.499999 0.499999)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c0d50435-a02d-41ac-93f1-a73672dd4556")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/WS2812B-1313-V6.wrl"
+		(offset
+			(xyz -0.001606 0 0.01)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
