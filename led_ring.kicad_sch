@@ -1667,7 +1667,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 63.5) (xy 151.13 63.5)
+			(xy 143.51 63.5) (xy 149.86 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1817,16 +1817,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 63.5) (xy 170.18 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26497b5f-dda6-4419-a6e8-c8e3004ab705")
-	)
-	(wire
-		(pts
 			(xy 204.47 33.02) (xy 184.15 33.02)
 		)
 		(stroke
@@ -1917,7 +1907,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 63.5) (xy 218.44 63.5)
+			(xy 212.09 63.5) (xy 219.71 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1927,13 +1917,13 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 44.45) (xy 238.76 44.45)
+			(xy 237.49 63.5) (xy 238.76 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "356d2e03-fe2a-480d-8283-54c158c52780")
+		(uuid "35a446d2-424b-4a82-bdfa-f7b1855bd067")
 	)
 	(wire
 		(pts
@@ -1994,6 +1984,16 @@
 			(type default)
 		)
 		(uuid "549b40eb-ed41-493d-9682-5a8e90e49f83")
+	)
+	(wire
+		(pts
+			(xy 168.91 46.99) (xy 176.53 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56138e0a-c9ba-47a8-9ae2-e3466926897f")
 	)
 	(wire
 		(pts
@@ -2247,6 +2247,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 66.04) (xy 245.11 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "796ee339-c1da-4afc-8ca2-30835aad4d36")
+	)
+	(wire
+		(pts
 			(xy 83.82 66.04) (xy 80.01 66.04)
 		)
 		(stroke
@@ -2337,7 +2347,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 46.99) (xy 219.71 46.99)
+			(xy 213.36 46.99) (xy 218.44 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2397,7 +2407,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 46.99) (xy 144.78 46.99)
+			(xy 144.78 46.99) (xy 151.13 46.99)
 		)
 		(stroke
 			(width 0)
@@ -2547,6 +2557,16 @@
 	)
 	(wire
 		(pts
+			(xy 170.18 63.5) (xy 171.45 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5c2bd39-5b25-445e-8466-b522f7e399ba")
+	)
+	(wire
+		(pts
 			(xy 110.49 46.99) (xy 110.49 33.02)
 		)
 		(stroke
@@ -2607,7 +2627,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 44.45) (xy 149.86 44.45)
+			(xy 143.51 44.45) (xy 151.13 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2737,13 +2757,23 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 46.99) (xy 245.11 46.99)
+			(xy 238.76 46.99) (xy 245.11 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "bc76c5f6-c994-4aa0-8b8a-4caf1c2da09d")
+	)
+	(wire
+		(pts
+			(xy 168.91 44.45) (xy 170.18 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd7b5eb0-db5e-4a9d-b0b1-fb8cde76db8e")
 	)
 	(wire
 		(pts
@@ -2847,17 +2877,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 66.04) (xy 245.11 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca871bbd-de57-4559-bba9-d8b916a683b7")
-	)
-	(wire
-		(pts
-			(xy 218.44 66.04) (xy 213.36 66.04)
+			(xy 213.36 66.04) (xy 219.71 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2947,16 +2967,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 46.99) (xy 176.53 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc69d7fc-3f3e-42b8-a356-a8a83cf8db3f")
-	)
-	(wire
-		(pts
 			(xy 110.49 71.12) (xy 78.74 71.12)
 		)
 		(stroke
@@ -2967,7 +2977,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 66.04) (xy 151.13 66.04)
+			(xy 144.78 66.04) (xy 149.86 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2977,7 +2987,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 66.04) (xy 176.53 66.04)
+			(xy 170.18 66.04) (xy 176.53 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3077,7 +3087,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 44.45) (xy 219.71 44.45)
+			(xy 212.09 44.45) (xy 218.44 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4107,6 +4117,125 @@
 		)
 	)
 	(symbol
+		(lib_id "JLCImport:WS2812B-2020-V6")
+		(at 228.6 64.77 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "13c76382-3a42-46ac-a4b7-82b3ba63a2ce")
+		(property "Reference" "LED86"
+			(at 228.6 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B-2020-V6"
+			(at 228.6 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "JLCImport:WS2812B-2020-V6"
+			(at 228.6 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240329/6FEC2F70F2506C251BC857A6ED8A227A.pdf"
+			(at 228.6 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-40℃~+85℃ 0.84mm 120us 160mcd 1uA 200mcd 2kHz 2mm 2mm 3.3V~5.3V 300ns 465nm~470nm 515nm~520nm 520mcd 620nm~625nm 800Kbit/s Built-in power-on reset circuit、Built-in power-on reset circuit、Integrated intelligent reverse connection protection function SMD2020-4P RGB LEDs(Built-in IC) ROHS"
+			(at 228.6 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C52917434"
+			(at 228.6 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Worldsemi"
+			(at 228.6 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "WS2812B-2020-V6"
+			(at 228.6 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "943af711-7eab-4484-94fb-3c669f6f267a")
+		)
+		(pin "3"
+			(uuid "14459fd7-1fc9-46ca-a936-b57e19fc6592")
+		)
+		(pin "2"
+			(uuid "a2fd8c70-5415-42c9-8e06-3a6dc01abbef")
+		)
+		(pin "4"
+			(uuid "8065e3c6-ef04-47a5-998a-aa7d0385b440")
+		)
+		(instances
+			(project "watch"
+				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
+					(reference "LED86")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "WS2812B-1313-V6_1")
 		(lib_id "JLCImport:WS2812B-1313-V6")
 		(at 160.02 85.09 0)
@@ -4341,6 +4470,126 @@
 			(project "watch"
 				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
 					(reference "LED82")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "WS2812B-1313-V6_1")
+		(lib_id "JLCImport:WS2812B-1313-V6")
+		(at 160.02 66.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "23e98f95-c683-4584-b66a-17d973196920")
+		(property "Reference" "LED78"
+			(at 160.02 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B-1313-V6"
+			(at 160.02 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "JLCImport:WS2812B-1313-V6"
+			(at 160.02 78.486 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240229/B8051D75F82007E6B8E5AD9424D7210B.pdf"
+			(at 160.02 83.058 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SMD1313-4P RGB LEDs(Built-in IC) ROHS"
+			(at 160.274 82.296 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C52941388"
+			(at 160.274 78.232 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Worldsemi"
+			(at 160.782 75.438 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "WS2812B-1313-V6"
+			(at 159.766 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cb6abb9b-6eef-4460-9cf1-0d077d50b85f")
+		)
+		(pin "1"
+			(uuid "4f47232e-34ec-4cc7-98f6-91d36a00be44")
+		)
+		(pin "3"
+			(uuid "68062906-dac2-4dcb-ba0e-586ca9fbab77")
+		)
+		(pin "4"
+			(uuid "ccfcfe8c-13ec-471b-8504-f0fdaeed587d")
+		)
+		(instances
+			(project "watch"
+				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
+					(reference "LED78")
 					(unit 1)
 				)
 			)
@@ -5189,6 +5438,126 @@
 	(symbol
 		(lib_name "WS2812B-1313-V6_1")
 		(lib_id "JLCImport:WS2812B-1313-V6")
+		(at 228.6 46.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59f9b542-fe34-4e1a-baa4-e7dc11d128ae")
+		(property "Reference" "LED87"
+			(at 228.6 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B-1313-V6"
+			(at 228.6 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "JLCImport:WS2812B-1313-V6"
+			(at 228.6 59.436 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240229/B8051D75F82007E6B8E5AD9424D7210B.pdf"
+			(at 228.6 64.008 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SMD1313-4P RGB LEDs(Built-in IC) ROHS"
+			(at 228.854 63.246 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C52941388"
+			(at 228.854 59.182 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Worldsemi"
+			(at 229.362 56.388 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "WS2812B-1313-V6"
+			(at 228.346 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0afb3dec-f80c-4878-82e1-4638658cc301")
+		)
+		(pin "1"
+			(uuid "b19bc162-573a-4480-b661-02a507664637")
+		)
+		(pin "3"
+			(uuid "a70db98b-3eb6-4ec1-bd87-3a7b6e2ee4f0")
+		)
+		(pin "4"
+			(uuid "fbeb52c0-ca25-455a-9ca0-4c92354c6c95")
+		)
+		(instances
+			(project "watch"
+				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
+					(reference "LED87")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "WS2812B-1313-V6_1")
+		(lib_id "JLCImport:WS2812B-1313-V6")
 		(at 127 27.94 0)
 		(unit 1)
 		(body_style 1)
@@ -5660,246 +6029,6 @@
 			(project "watch"
 				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
 					(reference "LED85")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "WS2812B-1313-V6_1")
-		(lib_id "JLCImport:WS2812B-1313-V6")
-		(at 160.02 46.99 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "844a6bb9-6019-4126-ba21-c3efed82a3d7")
-		(property "Reference" "LED79"
-			(at 160.02 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B-1313-V6"
-			(at 160.02 39.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "JLCImport:WS2812B-1313-V6"
-			(at 160.02 59.436 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240229/B8051D75F82007E6B8E5AD9424D7210B.pdf"
-			(at 160.02 64.008 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "SMD1313-4P RGB LEDs(Built-in IC) ROHS"
-			(at 160.274 63.246 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C52941388"
-			(at 160.274 59.182 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Worldsemi"
-			(at 160.782 56.388 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "WS2812B-1313-V6"
-			(at 159.766 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a27f24ec-fde8-4c28-9334-bf048258cf16")
-		)
-		(pin "1"
-			(uuid "0bd3ac92-9d0d-4972-9bcd-973bc78e1f68")
-		)
-		(pin "3"
-			(uuid "494b8c17-dba8-4fe2-9838-b17b71c57417")
-		)
-		(pin "4"
-			(uuid "5cb6508b-db3f-4e1a-9f0d-864ce89890dc")
-		)
-		(instances
-			(project "watch"
-				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
-					(reference "LED79")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "WS2812B-1313-V6_1")
-		(lib_id "JLCImport:WS2812B-1313-V6")
-		(at 228.6 66.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8592a11e-4407-45a4-b4bf-ad8713c29d07")
-		(property "Reference" "LED86"
-			(at 228.6 55.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B-1313-V6"
-			(at 228.6 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "JLCImport:WS2812B-1313-V6"
-			(at 228.6 78.486 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240229/B8051D75F82007E6B8E5AD9424D7210B.pdf"
-			(at 228.6 83.058 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "SMD1313-4P RGB LEDs(Built-in IC) ROHS"
-			(at 228.854 82.296 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C52941388"
-			(at 228.854 78.232 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Worldsemi"
-			(at 229.362 75.438 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "WS2812B-1313-V6"
-			(at 228.346 73.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1525be30-befc-4006-95e2-385ea68be192")
-		)
-		(pin "1"
-			(uuid "cbc6fa79-4a46-4a58-8f3a-e8f8c483686a")
-		)
-		(pin "3"
-			(uuid "c1d6bdb1-5116-453f-bc3d-e5d17e180de1")
-		)
-		(pin "4"
-			(uuid "74dd7436-9f88-4e27-8d77-d90063befac4")
-		)
-		(instances
-			(project "watch"
-				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
-					(reference "LED86")
 					(unit 1)
 				)
 			)
@@ -6627,6 +6756,125 @@
 		)
 	)
 	(symbol
+		(lib_id "JLCImport:WS2812B-2020-V6")
+		(at 160.02 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aaa20c62-e6c4-4f67-8d5d-61436b13a141")
+		(property "Reference" "LED79"
+			(at 160.02 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B-2020-V6"
+			(at 160.02 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "JLCImport:WS2812B-2020-V6"
+			(at 160.02 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240329/6FEC2F70F2506C251BC857A6ED8A227A.pdf"
+			(at 160.02 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "-40℃~+85℃ 0.84mm 120us 160mcd 1uA 200mcd 2kHz 2mm 2mm 3.3V~5.3V 300ns 465nm~470nm 515nm~520nm 520mcd 620nm~625nm 800Kbit/s Built-in power-on reset circuit、Built-in power-on reset circuit、Integrated intelligent reverse connection protection function SMD2020-4P RGB LEDs(Built-in IC) ROHS"
+			(at 160.02 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C52917434"
+			(at 160.02 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Worldsemi"
+			(at 160.02 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "WS2812B-2020-V6"
+			(at 160.02 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "39e46cfc-d28b-4d6a-9cc2-19f16bb4edf4")
+		)
+		(pin "3"
+			(uuid "418aad68-fd60-4fdd-a2bf-a65f8eb76823")
+		)
+		(pin "2"
+			(uuid "084cceec-d2fa-4dc2-ba7e-fb6492afa5cc")
+		)
+		(pin "4"
+			(uuid "ddd03a5b-43a9-4946-99e7-68a4b10b9597")
+		)
+		(instances
+			(project "watch"
+				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
+					(reference "LED79")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "WS2812B-1313-V6_1")
 		(lib_id "JLCImport:WS2812B-1313-V6")
 		(at 194.31 27.94 0)
@@ -7215,125 +7463,6 @@
 			(project "watch"
 				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
 					(reference "LED84")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "JLCImport:WS2812B-2020-V6")
-		(at 160.02 64.77 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c711d074-2474-43ca-91f5-8bbf072900aa")
-		(property "Reference" "LED78"
-			(at 160.02 55.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B-2020-V6"
-			(at 160.02 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "JLCImport:WS2812B-2020-V6"
-			(at 160.02 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240329/6FEC2F70F2506C251BC857A6ED8A227A.pdf"
-			(at 160.02 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "-40℃~+85℃ 0.84mm 120us 160mcd 1uA 200mcd 2kHz 2mm 2mm 3.3V~5.3V 300ns 465nm~470nm 515nm~520nm 520mcd 620nm~625nm 800Kbit/s Built-in power-on reset circuit、Built-in power-on reset circuit、Integrated intelligent reverse connection protection function SMD2020-4P RGB LEDs(Built-in IC) ROHS"
-			(at 160.02 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C52917434"
-			(at 160.02 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Worldsemi"
-			(at 160.02 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "WS2812B-2020-V6"
-			(at 160.02 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "36404be2-2a99-4817-b888-02cd0958150a")
-		)
-		(pin "3"
-			(uuid "f72a3c0a-8618-4513-a475-d8f83dbfe7f8")
-		)
-		(pin "2"
-			(uuid "08e7d248-058e-4777-91b8-66acc5b7a810")
-		)
-		(pin "4"
-			(uuid "cdd8faa5-52b3-42f2-a6f4-e6494e092dc3")
-		)
-		(instances
-			(project "watch"
-				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
-					(reference "LED78")
 					(unit 1)
 				)
 			)
@@ -8039,125 +8168,6 @@
 			(project "watch"
 				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
 					(reference "LED71")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "JLCImport:WS2812B-2020-V6")
-		(at 228.6 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f85d6008-9439-4349-a3e7-f8fe2356027d")
-		(property "Reference" "LED87"
-			(at 228.6 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B-2020-V6"
-			(at 228.6 39.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "JLCImport:WS2812B-2020-V6"
-			(at 228.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20240329/6FEC2F70F2506C251BC857A6ED8A227A.pdf"
-			(at 228.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "-40℃~+85℃ 0.84mm 120us 160mcd 1uA 200mcd 2kHz 2mm 2mm 3.3V~5.3V 300ns 465nm~470nm 515nm~520nm 520mcd 620nm~625nm 800Kbit/s Built-in power-on reset circuit、Built-in power-on reset circuit、Integrated intelligent reverse connection protection function SMD2020-4P RGB LEDs(Built-in IC) ROHS"
-			(at 228.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C52917434"
-			(at 228.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Worldsemi"
-			(at 228.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "WS2812B-2020-V6"
-			(at 228.6 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "03812ac1-9d67-47b8-8589-c40b48c05f2e")
-		)
-		(pin "3"
-			(uuid "f453314c-30eb-4b0a-8681-3fb96dcd1df0")
-		)
-		(pin "2"
-			(uuid "80145835-5c47-4ac3-99d0-04be4d5fe13b")
-		)
-		(pin "4"
-			(uuid "3b73d890-c8b5-44a5-9b20-58277794b526")
-		)
-		(instances
-			(project "watch"
-				(path "/468dd95e-a69a-4875-ad84-79c0ed6b3bd2/dd970896-2d1f-4a80-b40c-7d42ac29049e"
-					(reference "LED87")
 					(unit 1)
 				)
 			)
